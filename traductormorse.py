@@ -92,10 +92,10 @@ def run():
 
             Bienvenido a criptografía morse. ¿Qué deseas hacer?
 
-            1) Cifrar mensaje
-            2) Decifrar mensaje
-	    3) Ayuda
-            4) Salir
+            [1] Cifrar mensaje
+            [2] Decifrar mensaje
+	    [3] Ayuda
+            [4] Salir
         '''))
 
         if command == '1':
