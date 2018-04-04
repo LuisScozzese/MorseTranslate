@@ -109,7 +109,7 @@ def run():
             print('Mensaje descifrado = ' + decypher_message)
 	elif command == '3':
 	    print('El programa es muy sencillo de usar, al momento de cifrar la informacion no tendras ningun')
-	    print('problema al menos que pongas caracteres extraños que no esten en el teclado americano')
+	    print('problema al menos que escribas un caracter que no sea valido o no este en los teclados americanos')
 	    print('al momento de descifrar tienes que cambiar obligatoriamente los "/" por un espacio " " ya que')
 	    print('el programa no entiende cuando estan todos los caracteres unidos, aun asi los juntara en una')
 	    print('palabra, por eso se recomienda que cuando son oraciones, se tradusca palabra por palabra')
